@@ -1,16 +1,5 @@
 # brown_canyon
 
-A new Flutter project.
+##Preview 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img-src="https://user-images.githubusercontent.com/95673915/212262677-b2f2e1e5-93bb-4d68-afe8-21530242241c.png" widht=600px />
